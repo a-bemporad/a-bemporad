@@ -27,10 +27,10 @@
   <a href="https://www.linkedin.com/in/astrid-bemporad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/bemporad/" >
+  <a href="https://www.instagram.com/bemporad/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:astridbemporad@gmail.com">
+  <a href="mailto:astridbemporad@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>                                                                                                   
 </p>
@@ -43,7 +43,7 @@
 ***
 <h4 align="center">GitHub Stats:</h4>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-bemporad&show_icons=true&locale=en&layout=compact" alt="a-bemporad" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-bemporad&show_icons=true&locale=en" alt="a-bemporad" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-bemporad&show_icons=true&locale=en&layout=compact&count_private=true" alt="a-bemporad" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-bemporad&show_icons=true&locale=en&count_private=true" alt="a-bemporad" /></p>
 
 <h4 align="center">Thanks for stopping by!</h4>
 
