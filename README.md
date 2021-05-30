@@ -2,7 +2,7 @@
 
 <h4 align="center">Hey, there! Welcome to my gitHub!</h4>
 
-<p align="justify">     I'm a Full Stack Web Developer, interested in evolving as a Back End Developer, because I came to discover that affinity is way bigger with it than with Front-End. I'm from Venezuela, currently living in Brazil, and fluent in spanish, english and portuguese. I've started programming recently, but been in a love story with math and sciences for as longs as I can remember ❤️... Programming made me fall in love with the possibilities of technology. I'm looking forward to learn some other languages, perhaps oriented to Data Science, and would also LOVE to be a part of inspiring and relevant projects one day.</p>
+<p align="justify">     I'm a Full Stack Web Developer! I'm from Venezuela, currently living in Brazil, and fluent in spanish, english and portuguese. I've started programming recently, but been in a love story with math and sciences for as longs as I can remember ❤️... Programming made me fall in love with the possibilities of technology. I'm looking forward to learn some other languages, perhaps more oriented to Back-End and Data Science, and would also LOVE to be a part of inspiring and relevant projects one day.</p>
 
 <h4 align="center">Tech Stack</h4>
 
